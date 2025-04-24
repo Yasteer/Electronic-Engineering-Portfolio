@@ -1,4 +1,4 @@
-# DC-DC Boost Converter (9V to 12V) – Arduino Controlled
+# ⚡ DC-DC Boost Converter (9V to 12V) – Arduino Controlled
 
 ## 📖 Introduction
 
