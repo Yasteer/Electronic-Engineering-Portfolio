@@ -6,6 +6,18 @@ Welcome to my **Electronic Engineering Portfolio** — a curated collection of h
 
 This repository serves as a **portfolio of evidence** showcasing my competency in various areas of electronic engineering. Each project is crafted to highlight key aspects of electronics, from basic circuit analysis and component selection to microcontroller programming and real-world applications.
 
+---
+
+## 🌟 Featured Projects
+
+| Project | Description	| Repository Link |
+|--------|-------------|------|
+| DC-DC Boost Converter	| A power electronics project focused on stepping up DC voltage using efficient switching. |	[View Repo](https://github.com/Yasteer/DC-DC-Boost-Convertor) |
+
+More projects will be added to this table as the portfolio grows.
+
+---
+
 ## 📂 Repository Structure
 
 Each folder in this repository represents a **standalone project**, and typically contains the following:
