@@ -38,7 +38,7 @@ The Arduino controls the duty cycle of the PWM signal to regulate the output vol
 
 The schematic is shown below:
 
-![Boost Converter Schematic](DC-DC Boost Convertor/Boost Convertor Schematic.png)
+![Boost Converter Schematic](Boost_Convertor_Schematic.png)
 
 ## 📏 Component Sizing (To Be Added)
 
