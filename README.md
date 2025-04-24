@@ -14,7 +14,7 @@ This repository serves as a **portfolio of evidence** showcasing my competency i
 |--------|-------------|------|
 | DC-DC Boost Converter	| A power electronics project focused on stepping up DC voltage using efficient switching. |	[View Repo](https://github.com/Yasteer/DC-DC-Boost-Convertor) |
 | Custom Arduino | My take on an Arduino with additional components built into a custom made PCB. | [View Repo](https://github.com/Yasteer/My-Custom-Arduino) |
-| Quadcopter | Arduino based quadcopter drone using a gyroscope & PID controller for main controls. |  [View Repo]([https://github.com/Yasteer/My-Custom-Arduino](https://github.com/Yasteer/Quadcopter)) |
+| Quadcopter | Arduino based quadcopter drone using a gyroscope & PID controller for main controls. |  [View Repo](https://github.com/Yasteer/Quadcopter) |
 
 More projects will be added to this table as the portfolio grows.
 
