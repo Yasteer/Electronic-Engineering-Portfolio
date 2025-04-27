@@ -13,6 +13,7 @@ This repository serves as a **portfolio of evidence** showcasing my competency i
 | Project | Description	| Repository Link |
 |--------|-------------|------|
 | Analogue Speed Control |  Automatic temperature-controlled fan system using only analog components. | [View Repo](https://github.com/Yasteer/Temperature-Controlled-Fan) |
+| Analogue Signal Generator | Signal generator producing square, triangle & sinusoidal output waveforms. | [View Repo](https://github.com/Yasteer/Analog-Signal-Generator) |
 | Poor Mans Oscilloscope | Arduino based signal analyzer (basic) used to read in low frequency signals for user display. | [View Repo](https://github.com/Yasteer/Budget-Oscilloscope-) |
 | DC-DC Boost Converter	| A power electronics project focused on stepping up DC voltage using efficient switching. |	[View Repo](https://github.com/Yasteer/DC-DC-Boost-Convertor) |
 | Custom Arduino | My take on an Arduino with additional components built into a custom made PCB. | [View Repo](https://github.com/Yasteer/My-Custom-Arduino) |
