@@ -39,7 +39,7 @@ Each folder in this repository represents a **standalone project**, and typicall
 
 - Analog and digital electronics
 - Microcontrollers (Arduino, STM32, etc.)
-- Circuit simulation tools (LTspice, Proteus, etc.)
+- Circuit simulation tools (Tinkercad, Wokwi, LTspice, Proteus, etc.)
 - PCB design (KiCad, EasyEDA, etc.)
 - Programming languages: C/C++, Structured Text, Python (where applicable)
 
