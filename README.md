@@ -13,6 +13,7 @@ This repository serves as a **portfolio of evidence** showcasing my competency i
 | Project | Description	| Repository Link |
 |--------|-------------|------|
 | Analogue Speed Control |  Automatic temperature-controlled fan system using only analog components. | [View Repo](https://github.com/Yasteer/Temperature-Controlled-Fan) |
+| 4-Bit Binary To Hexadecimal Convertor | 4-Bit binary to hexadecimal decoder implemented with logic gates & a 7-segment display. | [View Repo](https://github.com/Yasteer/7-Segment-Hexadecimal-Decoder) |
 | Analogue Signal Generator | Signal generator producing square, triangle & sinusoidal output waveforms. | [View Repo](https://github.com/Yasteer/Analog-Signal-Generator) |
 | Poor Mans Oscilloscope | Arduino based signal analyzer (basic) used to read in low frequency signals for user display. | [View Repo](https://github.com/Yasteer/Budget-Oscilloscope-) |
 | DC-DC Boost Converter	| A power electronics project focused on stepping up DC voltage using efficient switching. |	[View Repo](https://github.com/Yasteer/DC-DC-Boost-Convertor) |
