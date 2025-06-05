@@ -21,7 +21,7 @@ This repository serves as a **portfolio of evidence** showcasing my competency i
 | 3-Axis Gyroscope & Accelerometer Measurement | I2C sensor integration with an Arduino Uno. | [View Repo](https://github.com/Yasteer/3-Axis-Gyroscope-Accelerometer-Measurement) |
 | Quadcopter | Arduino based quadcopter drone using a gyroscope & PID controller for main controls. |  [View Repo](https://github.com/Yasteer/Quadcopter) |
 | Audio Spectrum Analyzer | Arduino based audio frequency analyzer. Implements Fourier Series algorithm for frequency detection. | [View Repo](https://github.com/Yasteer/Audio-Spectrum-LED-Analyser) |
-
+| Analogue Battery Charger | *SPICE* simulation for a lead-acid battery charger. | [View Repo](https://github.com/Yasteer/Solar-Charging-System) |
 
 > More projects will be added to this table as the portfolio grows.
 
